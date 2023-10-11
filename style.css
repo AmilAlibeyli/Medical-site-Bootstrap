@@ -2,9 +2,10 @@
   --mavi: #6bc1f1;
 }
 
-.bg-mavi {
-  background-color: #6bc1f1;
-}
+.bg-mavi {background-color: #6bc1f1;}
+.text-mavi{color: #6bc1f1;}
 header{
     background: url(img/headerbg.jpg) 58%/cover;
 }
+
+
