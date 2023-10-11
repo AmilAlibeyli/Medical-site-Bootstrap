@@ -1,11 +1,12 @@
-:root {
-  --mavi: #6bc1f1;
-}
-
+:root {--mavi: #6bc1f1;}
 .bg-mavi {background-color: #6bc1f1;}
 .text-mavi{color: #6bc1f1;}
-header{
-    background: url(img/headerbg.jpg) 58%/cover;
-}
+.min-vh-50{min-height: 50vh;}
+.bgf1:hover{opacity: 0.6 ; }
+.bgf2:hover{opacity: 0.6;}
+.bgf1:hover h5, .bgf2:hover h5{display: block!important;}
+ header{background: url(img/headerbg.jpg) 58%/cover;}
+.bgf1{background: url(img/f1.jpg) center/cover;}
+.bgf2{background: url(img/f2.jpg) center/cover;}
 
 
